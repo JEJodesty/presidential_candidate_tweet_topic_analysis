@@ -37,11 +37,11 @@ I decided to take the NLP approach of Topic Modeling the tweets using LDA. My go
 * Tokenized words in tweets, and stemmed similar words in tweets 
 * Removed Stop/Irrelevant words
 
-###Step 4: Data Modeling 
+#####Step 4: Data Modeling 
 * Train/Test split documents for each collection 
 * Trained all N_Grams Models for Hillary & Trump fitted with respective training sets
 
-###Step 5: Results & Evaluation 
+#####Step 5: Results & Evaluation 
 * Generated 10 topics for unigram fitted models. 
 * Chose unigram fitted models because they were the most interpretable.
 * Evaluated models using the perplexity metric. Perplexity is a measurement of how well a probability distribution or probability model predicts a sample (https://en.wikipedia.org/wiki/Perplexity).
