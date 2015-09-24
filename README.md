@@ -1,5 +1,5 @@
-#Presidential Candidate Topic Analysis of Tweets
-#By Joshua E. Jodesty
+###Presidential Candidate Topic Analysis of Tweets
+###By Joshua E. Jodesty
 
 #####Objective: 
 Determine and assess the top prevalent issues regarding presidential candidates, by discovering topics and related words concerning the candidates given relevant tweets. 
