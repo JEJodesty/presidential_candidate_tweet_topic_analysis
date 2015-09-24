@@ -28,6 +28,7 @@ I decided to take the NLP approach of Topic Modeling the tweets using LDA. My go
 * Wrote a python script that retrieves tweets using the Twitter API and creates database collections of tweets on my hosted MongoDB. 
 * Utilized a python wrapper for the Twitter API called TwitterSearch, and inserted custom BSON objects of tweets into my database. 
 * Connected to my MongoDB database containing tables of tweets concerning Hillary Clinton & Donald Trump
+
 ######Database - MongoDB on AWS: election2016
     * hillary_tweets: 10001 tweets
     * trump_twees: 10001 tweets
