@@ -59,6 +59,8 @@ I decided to take the NLP approach of Topic Modeling the tweets using LDA. My go
 
 #####Step 8: Discovered word relations with Google's Word2Vec 
 
+#####This repository contains an IPython Notebook providing a walkthrough of my project I delivered at Metis
+
 #####Appendix:
 ######Topic Model
 A topic model is a type of statistical model for discovering abstract "topics" occurring in a collection of text documents [[1]](https://en.wikipedia.org/wiki/Topic_model). A "topic" consists of a cluster of words that frequently occur together [[2]](http://mallet.cs.umass.edu/topics.php). These "topics" represent embedded thematic structures within unlabeled text documents [[2]](http://mallet.cs.umass.edu/topics.php) [[3]](https://www.cs.princeton.edu/~blei/topicmodeling.html). Using contextual clues, topic models can connect words with similar meaning, and distinguish between uses of words with multiple meanings [[3]](https://www.cs.princeton.edu/~blei/topicmodeling.html). Topic Modeling helps us develop new ways to search, browse, and summarize large archives of texts [[3]](https://www.cs.princeton.edu/~blei/topicmodeling.html).
