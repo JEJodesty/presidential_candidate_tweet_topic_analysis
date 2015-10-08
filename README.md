@@ -18,7 +18,7 @@ I assessed public opinions of presidential candidates by finding words associati
 I archicted a cloud-hosted database of tweets mentioning Hillary Clinton and Donald Trump.
 
 ####Natural Language Processing: Topic Modeling with Latent Dirichlet allocation 
-I decided to take the NLP approach of Topic Modeling the tweets using LDA. My goal was to extract themes out of tweets about candidates by clustering words within tweets that frequently occur together and have similar meaning. I decide to use the GraphLab python module for LDA. 
+I decided to take the NLP approach of Topic Modeling the tweets using LDA. My goal was to extract themes out of tweets about candidates by clustering words within tweets that frequently occur together and have similar meaning. I decided to use the GraphLab python module for LDA. 
 
 #####Step 1: Non-Relational Database Hosting  
 * Hosted a NoSQL Database on a cloud machine to avoid storing large amounts of tweets on my local machine. 
